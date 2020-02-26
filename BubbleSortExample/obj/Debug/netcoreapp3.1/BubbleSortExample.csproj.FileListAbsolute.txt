@@ -1,0 +1,11 @@
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\bin\Debug\netcoreapp3.1\BubbleSortExample.exe
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\bin\Debug\netcoreapp3.1\BubbleSortExample.deps.json
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\bin\Debug\netcoreapp3.1\BubbleSortExample.runtimeconfig.json
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\bin\Debug\netcoreapp3.1\BubbleSortExample.runtimeconfig.dev.json
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\bin\Debug\netcoreapp3.1\BubbleSortExample.dll
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\bin\Debug\netcoreapp3.1\BubbleSortExample.pdb
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\obj\Debug\netcoreapp3.1\BubbleSortExample.csprojAssemblyReference.cache
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\obj\Debug\netcoreapp3.1\BubbleSortExample.AssemblyInfoInputs.cache
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\obj\Debug\netcoreapp3.1\BubbleSortExample.AssemblyInfo.cs
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\obj\Debug\netcoreapp3.1\BubbleSortExample.dll
+C:\Users\bijaya_kumar_samanta\source\Test\BubbleSortExample\BubbleSortExample\obj\Debug\netcoreapp3.1\BubbleSortExample.pdb
